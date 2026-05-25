@@ -10,7 +10,7 @@ The dataset contains campaign metrics such as:
 - Conversions
 - Revenue
 - Campaign Dates
-
+  
 This project demonstrates how SQL can be used for:
 - Marketing analytics
 - Campaign performance tracking
