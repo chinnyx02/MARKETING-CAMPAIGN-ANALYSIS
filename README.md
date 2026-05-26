@@ -84,20 +84,6 @@ This project helps businesses:
 - Increase return on investment (ROI)
 
 ---
-
-project
-
----
-
-# Future Improvements
-- Add more campaign data
-- Build Power BI dashboards
-- Add KPI reporting
-- Integrate data visualization
-- Create predictive marketing analysis
-
----
-
 # Author
 Ifunanya Igbonwa
 
